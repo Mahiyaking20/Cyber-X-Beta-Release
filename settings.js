@@ -36,11 +36,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.vcardowner = ['94761091578'] //ur owner number
+global.ownername = "𝐌𝐢𝐡𝐢𝐫𝐮𝐤 𝐃𝐢𝐥𝐬𝐡𝐚𝐧 𝐒𝐏𝐂𝐇𝐀𝐓𝐇𝐔" //ur owner name
+global.ytname = "YT: Spchathu official " //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Sri Lanka, Hambanthota, Sooriyawawe" //ur location
 
 //BOT COSTOMIZEDTATION
 global.owner = ['94761091578']
